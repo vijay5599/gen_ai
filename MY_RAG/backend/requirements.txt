@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+qdrant-client
+openai
+pypdf
+python-dotenv
+python-multipart
